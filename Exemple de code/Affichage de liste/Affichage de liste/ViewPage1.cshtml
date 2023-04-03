@@ -1,0 +1,24 @@
+﻿@{
+    var maListe = new List<string> { "Jeremy", "Dassaud" };
+}
+
+<p>Liste avant l'ajout d'un élément :</p>
+<ul>
+    @foreach(var item in maListe)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+@{
+    maListe.Add("S2SIO");
+}
+
+<p>Liste après l'ajout d'un élément :</p>
+<ul>
+    @foreach(var item in maListe)
+    {
+        <li>@item</li>
+    }
+</ul>
+

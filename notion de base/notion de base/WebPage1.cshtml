@@ -1,0 +1,76 @@
+﻿@{ 
+    // Bloc de code
+    // On peut taper du code comme sur un fichier.cs
+    int a = 4;
+    int b = 5;
+    int la_somme = a + b;
+    var resultat = "";
+    Random al = new Random();
+
+    int choix = al.Next(10);
+
+    var maintenant = DateTime.Now;
+
+    if (choix > a)
+    {
+        resultat = choix.ToString() + " est supérieur par rapport à " + a;
+    }
+    else
+    {
+        resultat = choix.ToString() + " est inférieur par rapport à " + a;
+    }
+
+}
+
+<!-- Balise HTML-->
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Titre de la page -->
+    <title>Une Page</title>
+    
+    <!-- Modifie le style d'une page -->
+    <!-- font-family = choisie la police de la page
+         margin-left = définit l'épaisseur de la ligne de marge'
+        border = definie la largeur, le style et la couleur de la bordure
+        -->
+    <style>
+        
+        body{font-family:'Comic Sans MS'; margin-left:50px; margin-top:50px;}
+        div{border: 1px solid black; width:50%; margin:1.2em; padding:1em;}
+        span.bright {color:red;}
+    </style>
+
+    
+</head>
+<body>
+    <form action="~/WebPage1.cshtml" method="post">
+        <div>
+            <label for="test">Hello World !</label>
+            <input type="text" id="testInput" name="Ecriver quelque chose :" />
+        </div>
+        <div>
+            <label for="adresse mails">e-mail&nbsp; </label>
+            <input type="email" id="mail" name="adresse mail" />
+        </div>
+        <div>
+            <label for="msg">Message</label>
+            <textarea id="msg" name="message"></textarea>
+        </div>
+    </form>
+    <h1> test de razor</h1>
+    <form method="post">
+        <div>
+            <p> La valeur de <em>a</em> est @a.  La valeur de <em>b</em> est @b.</p>
+            <p>La somme de <em>a</em> et de <em>b</em> est <strong>@la_somme</strong>.</p>
+            <p>@resultat</p>
+        </div>
+
+        <div>
+            <p> Il est actuellement @maintenant</p>
+            <p>L'URL de cette page est <br /><br /><code> @Request.Url </code></p>
+        </div>
+    </form>
+
+</body>
+</html>

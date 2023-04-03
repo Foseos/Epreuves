@@ -1,0 +1,20 @@
+﻿@model WebApplication2.Controllers.LoginModel
+
+@{
+    ViewBag.Title = "Connection";
+}
+
+<h2>Connection</h2>
+
+
+
+@using(Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Utilisateur)
+    @Html.TextBoxFor(m => m.Utilisateur)
+    @Html.ValidationMessageFor(m => m.Utilisateur)
+    @Html.LabelFor(m => m.Motdepasse)
+    @Html.PasswordFor(m => m.Motdepasse)
+    <input intput type="submit"/>
+    @Html.ValidationSummary()
+}

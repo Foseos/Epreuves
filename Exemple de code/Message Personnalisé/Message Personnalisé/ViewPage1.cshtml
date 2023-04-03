@@ -1,0 +1,15 @@
+﻿@{
+    //Variable utilisateur
+    var nomUtilisateur = "Jeremy";
+}
+
+<p>Bienvenue @nomUtilisateur !</p>
+
+// Vérifie si le nom correspond et afiiche un message selon si l'utilisateur correspond
+@if(nomUtilisateur == "Jeremy")
+{
+    <p>Vous êtes l'utilisateur enregistré.</p>
+} else
+{
+    <p>Vous n'êtes pas l'utilisateur enregistré.</p>
+}

@@ -1,0 +1,150 @@
+D:\Razor\notion de base\notion de base\bin\notion de base.dll.config
+D:\Razor\notion de base\notion de base\bin\notion de base.dll
+D:\Razor\notion de base\notion de base\bin\notion de base.pdb
+D:\Razor\notion de base\notion de base\bin\roslyn\csc.exe
+D:\Razor\notion de base\notion de base\bin\roslyn\csc.exe.config
+D:\Razor\notion de base\notion de base\bin\roslyn\csc.rsp
+D:\Razor\notion de base\notion de base\bin\roslyn\csi.exe
+D:\Razor\notion de base\notion de base\bin\roslyn\csi.exe.config
+D:\Razor\notion de base\notion de base\bin\roslyn\csi.rsp
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.AppContext.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Collections.Immutable.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Console.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Globalization.Calendars.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.IO.Compression.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.IO.FileSystem.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Net.Http.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Net.Sockets.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Reflection.Metadata.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.ValueTuple.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XPath.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Razor\notion de base\notion de base\bin\roslyn\vbc.exe
+D:\Razor\notion de base\notion de base\bin\roslyn\vbc.exe.config
+D:\Razor\notion de base\notion de base\bin\roslyn\vbc.rsp
+D:\Razor\notion de base\notion de base\bin\roslyn\VBCSCompiler.exe
+D:\Razor\notion de base\notion de base\bin\roslyn\VBCSCompiler.exe.config
+D:\Razor\notion de base\notion de base\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Razor\notion de base\notion de base\bin\Microsoft.Web.Infrastructure.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.Helpers.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.Razor.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Deployment.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Razor.dll
+D:\Razor\notion de base\notion de base\bin\System.Web.Helpers.xml
+D:\Razor\notion de base\notion de base\bin\System.Web.Razor.xml
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.xml
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Deployment.xml
+D:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Razor.xml
+D:\Razor\notion de base\notion de base\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Razor\notion de base\notion de base\bin\fr\System.Web.Helpers.resources.dll
+D:\Razor\notion de base\notion de base\bin\fr\System.Web.Razor.resources.dll
+D:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.resources.dll
+D:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.AssemblyReference.cache
+D:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.CoreCompileInputs.cache
+D:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.CopyComplete
+D:\Razor\notion de base\notion de base\obj\Debug\notion de base.dll
+D:\Razor\notion de base\notion de base\obj\Debug\notion de base.pdb
+F:\Razor\notion de base\notion de base\bin\notion de base.dll.config
+F:\Razor\notion de base\notion de base\bin\notion de base.dll
+F:\Razor\notion de base\notion de base\bin\notion de base.pdb
+F:\Razor\notion de base\notion de base\bin\roslyn\csc.exe
+F:\Razor\notion de base\notion de base\bin\roslyn\csc.exe.config
+F:\Razor\notion de base\notion de base\bin\roslyn\csc.rsp
+F:\Razor\notion de base\notion de base\bin\roslyn\csi.exe
+F:\Razor\notion de base\notion de base\bin\roslyn\csi.exe.config
+F:\Razor\notion de base\notion de base\bin\roslyn\csi.rsp
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Razor\notion de base\notion de base\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.AppContext.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Collections.Immutable.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Console.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Globalization.Calendars.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.IO.Compression.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.IO.FileSystem.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Net.Http.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Net.Sockets.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Reflection.Metadata.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.ValueTuple.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XPath.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Razor\notion de base\notion de base\bin\roslyn\vbc.exe
+F:\Razor\notion de base\notion de base\bin\roslyn\vbc.exe.config
+F:\Razor\notion de base\notion de base\bin\roslyn\vbc.rsp
+F:\Razor\notion de base\notion de base\bin\roslyn\VBCSCompiler.exe
+F:\Razor\notion de base\notion de base\bin\roslyn\VBCSCompiler.exe.config
+F:\Razor\notion de base\notion de base\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Razor\notion de base\notion de base\bin\Microsoft.Web.Infrastructure.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.Helpers.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.Razor.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Deployment.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Razor.dll
+F:\Razor\notion de base\notion de base\bin\System.Web.Helpers.xml
+F:\Razor\notion de base\notion de base\bin\System.Web.Razor.xml
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.xml
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Deployment.xml
+F:\Razor\notion de base\notion de base\bin\System.Web.WebPages.Razor.xml
+F:\Razor\notion de base\notion de base\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Razor\notion de base\notion de base\bin\fr\System.Web.Helpers.resources.dll
+F:\Razor\notion de base\notion de base\bin\fr\System.Web.Razor.resources.dll
+F:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.resources.dll
+F:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\Razor\notion de base\notion de base\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.AssemblyReference.cache
+F:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.CoreCompileInputs.cache
+F:\Razor\notion de base\notion de base\obj\Debug\notion de base.csproj.CopyComplete
+F:\Razor\notion de base\notion de base\obj\Debug\notion de base.dll
+F:\Razor\notion de base\notion de base\obj\Debug\notion de base.pdb
